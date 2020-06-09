@@ -1,0 +1,24 @@
+{
+  "name": "laravel-mix-tailwind",
+  "version": "1.0.0",
+  "description": "Laravel extension for TailwindCSS support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katwlodarczyk/laravel-mix-tailwind.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel-mix",
+    "tailwind"
+  ],
+  "author": "Kat Wlodarczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katwlodarczyk/laravel-mix-tailwind/issues"
+  },
+  "homepage": "https://github.com/katwlodarczyk/laravel-mix-tailwind#readme"
+}
